@@ -1,52 +1,50 @@
-# 👋 Bonjour ! Je suis Ahmed Sta
+# 👋 Hello! I'm Ahmed Sta
 
-> 🎓 *Ingénieur en Informatique spécialisé en Intelligence Artificielle & Machine Learning*  
-> 💡 Passionné par la création de systèmes intelligents basés sur les LLMs, RAG, NLP et l'IA générative.
+> 🎓 *Computer Engineer specialized in Artificial Intelligence & Machine Learning*  
+> 💡 Passionate about building intelligent systems powered by LLMs, RAG, NLP, and Generative AI.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmed-sta&label=Profile%20Views&color=blue )
+![Profile Views](https://komarev.com/ghpvc/?username=ahmed-sta&label=Profile%20Views&color=blue)
 
-## 🧠 À propos
+## 🧠 About Me
 
-Je suis un ingénieur IA dédié à la conception de solutions intelligentes utilisant les technologies modernes telles que :
+I'm an AI engineer dedicated to designing smart solutions using modern technologies such as:
 - **LLMs (Large Language Models)**
 - **RAG (Retrieval-Augmented Generation)**
 - **NLP (Natural Language Processing)**
 - **Computer Vision**
 - **Agentic AI**
 
-🎓 **Formation :**
-- **ENSI** – Ingénierie Informatique (2021–2024)
-- **IPEIT** – Classes Préparatoires (2019–2021)
-- **Lycée Farhat Hached** – Bac Mathématiques (2015–2019)
+🎓 **Education:**
+- **ENSI** – Computer Engineering (2021–2024)
+- **IPEIT** – Pre-engineering Studies (2019–2021)
 
-🔧 **Compétences techniques :**
-- Langages : Python, Java, JavaScript, C++
-- Frameworks : TensorFlow, PyTorch, HuggingFace, LangChain, LlamaIndex
-- Web : Flask, Django, React
-- Cloud : Azure, Google Cloud
-- Outils : Git, Docker, Linux
+🔧 **Technical Skills:**
+- Languages: Python, Java, JavaScript, C++
+- Frameworks: TensorFlow, PyTorch, HuggingFace, LangChain, LlamaIndex 
+- Web: Flask, Django, React
+- Cloud: Azure, Google Cloud
+- Tools: Git, Docker, Linux
 
-## 🚀 Projets
+## 🚀 Projects
 
-Découvre mes projets récents sur mon [portfolio](https://ahmed-sta-website.netlify.app/ ) :
-- Chatbots avec **LangChain** et **LlamaIndex**
-- Systèmes de recherche augmentée (**RAG**)
-- Fine-tuning de modèles LLM
-- Applications IA full-stack
+Check out my latest projects on my [portfolio](https://ahmed-sta-website.netlify.app/):
+- Chatbots using **LangChain** and **LlamaIndex**
+- Retrieval-Augmented Generation systems (**RAG**)
+- Fine-tuning LLMs
+- Full-stack AI applications
 
-## 🔗 Me contacter
+## 🔗 Contact Me
 
-📩 Email : [sta.ahmed09@gmail.com](mailto:sta.ahmed09@gmail.com)  
-📍 Tunis, Tunisie  
+📩 Email: [sta.ahmed09@gmail.com](mailto:sta.ahmed09@gmail.com)  
+📍 Tunis, Tunisia  
 📞 +216 52 040 035
 
-🔗 Réseaux :
-- [LinkedIn](https://www.linkedin.com/in/ahmed-sta/ )
-- [GitHub](https://github.com/STAAHMED11 )
-- [Portfolio](https://ahmed-sta-website.netlify.app/ )
+🔗 Socials:
+- [LinkedIn](https://www.linkedin.com/in/ahmed-sta/)
+- [GitHub](https://github.com/STAAHMED11)
+- [Portfolio](https://ahmed-sta-website.netlify.app/)
 
+## 🙌 Let’s Collaborate!
 
-## 🙌 Collaborons !
-
-Tu travailles sur un projet d'IA ou tu as besoin d’un coup de main ?  
-N'hésite pas à me contacter, je serais ravi de collaborer ! 😊
+Are you working on an AI project or need a hand?  
+Feel free to reach out — I'd be happy to collaborate! 😊
