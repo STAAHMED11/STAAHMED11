@@ -37,7 +37,7 @@ Découvre mes projets récents sur mon [portfolio](https://ahmed-sta-website.net
 ## 🔗 Me contacter
 
 📩 Email : [sta.ahmed09@gmail.com](mailto:sta.ahmed09@gmail.com)  
-📍 Bizerte, Tunisie  
+📍 Tunis, Tunisie  
 📞 +216 52 040 035
 
 🔗 Réseaux :
