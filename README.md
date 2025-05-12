@@ -46,9 +46,6 @@ Découvre mes projets récents sur mon [portfolio](https://ahmed-sta-website.net
 - [Twitter/X](https://twitter.com/AhmedSta_ )
 - [Portfolio](https://ahmed-sta-website.netlify.app/ )
 
-## 📸 Photo
-
-![Ahmed Sta - AI Engineer](https://ahmed-sta-website.netlify.app/assets/about.jpg )
 
 ## 🙌 Collaborons !
 
