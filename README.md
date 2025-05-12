@@ -42,8 +42,7 @@ Découvre mes projets récents sur mon [portfolio](https://ahmed-sta-website.net
 
 🔗 Réseaux :
 - [LinkedIn](https://www.linkedin.com/in/ahmed-sta/ )
-- [GitHub](https://github.com/ahmed-sta )
-- [Twitter/X](https://twitter.com/AhmedSta_ )
+- [GitHub](https://github.com/STAAHMED11 )
 - [Portfolio](https://ahmed-sta-website.netlify.app/ )
 
 
